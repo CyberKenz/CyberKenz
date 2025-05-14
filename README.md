@@ -1,90 +1,114 @@
-<!--
-██████╗ ██╗   ██╗███████╗███████╗████████╗     ██████╗ ██████╗ ██╗  ██╗
-██╔══██╗██║   ██║██╔════╝██╔════╝╚══██╔══╝    ██╔═══██╗██╔══██╗██║ ██╔╝
-██████╔╝██║   ██║█████╗  ███████╗   ██║       ██║   ██║██████╔╝█████╔╝
-██╔═══╝ ██║   ██║██╔══╝  ╚════██║   ██║       ██║   ██║██╔═══╝ ██╔═██╗
-██║     ╚██████╔╝███████╗███████║   ██║       ╚██████╔╝██║     ██║  ██╗
-╚═╝      ╚═════╝ ╚══════╝╚══════╝   ╚═╝        ╚═════╝ ╚═╝     ╚═╝  ╚═╝
-
-[![Profile Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00FF00&center=true&width=720&lines=Welcome+to+4Kenz's+Cyber+Realm)](#)
---><div align="center">
-  <h1>⚡ 4Kenz ⚡</h1>
-  <p><strong>Cyber Security Enthusiast & Frontend Developer</strong></p>
-  <p>
-    <a href="#about"><img src="https://img.shields.io/badge/About-blue?style=for-the-badge&logo=gitbook&logoColor=white" alt="About"></a>
-    <a href="#tech-stack"><img src="https://img.shields.io/badge/Tech%20Stack-gray?style=for-the-badge&logo=stackshare&logoColor=white" alt="Tech Stack"></a>
-    <a href="#stats"><img src="https://img.shields.io/badge/Stats-green?style=for-the-badge&logo=github&logoColor=white" alt="Stats"></a>
-    <a href="#contact"><img src="https://img.shields.io/badge/Contact-red?style=for-the-badge&logo=mail.RFC822&logoColor=white" alt="Contact"></a>
-  </p>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9745F5&height=120&section=header"/>
 </div>
----
 
-🌟 About Me
-
-> whoami
-
-> "I explore the digital frontier, securing systems by day and crafting sleek web experiences by night."
-
-
-
-🔐 Passionate about cyber security, from vulnerability assessments to incident response.
-
-💻 Frontend developer skilled in HTML5, CSS3, and JavaScript.
-
-🎯 Always learning: currently diving into React, TypeScript, and Pentesting.
-
-
-
----
-
-🚀 Tech Stack
+<h1 align="center">Halo Semua! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Netlify-%23000000.svg?&logo=netlify&logoColor=%2300C7B7" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?&logo=vercel&logoColor=white" alt="Vercel" />
+    <b>Saya Kenrick Kristian</b> 
+    <br>dikenal juga sebagai <b>CyberKenz</b> 🛡️
 </p>
----
-
-📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4Kenz&theme=chartreuse-dark&hide_border=true&show_icons=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4Kenz&theme=chartreuse-dark&hide_border=true" width="48%" />
-</div><div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4Kenz&theme=chartreuse-dark&hide_border=true&layout=compact" width="50%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&random=false&width=435&lines=Enthusiast+Keamanan+Siber+%F0%9F%94%92;Web+Developer+Pembelajar+%F0%9F%8C%90;Selalu+Belajar%2C+Terus+Berkembang+%F0%9F%8C%B1" alt="Typing SVG" />
 </div>
----
-
-🔝 Top Repositories
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=4Kenz&limit=5&theme=chartreuse-dark&hide_border=true&combine_all_yearly_contributions=true" alt="Top Repos" width="70%" />
+  <img src="https://raw.githubusercontent.com/CyberKenz/CyberKenz/main/assets/banner.gif" width="100%" alt="Banner"/>
 </div>
+
 ---
 
-🌐 Social & Contact
+### 👨‍💻 Tentang Saya
 
-<p align="center">
-  <a href="mailto:k92754537@gmail.com"><img src="https://img.shields.io/badge/Email-c92754537%40gmail.com-DD0031?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://tiktok.com/"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
-</p>
+```yaml
+nama_lengkap: Kenrick Kristian
+nama_panggilan: CyberKenz
+lokasi: Indonesia
+fokus_utama: Cybersecurity & Pengembangan Web
+minat:
+    - Keamanan Digital
+    - Teknologi Web
+    - Pembelajaran Berkelanjutan
+aktivitas:
+    - Mempelajari Kerentanan Keamanan
+    - Membangun Aplikasi Web yang Aman
+    - Berkontribusi pada Proyek Open Source
+```
+
 ---
 
-📈 Visitor Count
+### 🎯 Keahlian Teknis
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=4Kenz&icon=5&color=3" alt="Visitor Count" />
-</p>
+<div align="center">
+  
+[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
+[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)](https://javascript.info/)
+
+</div>
+
 ---
 
-> <sub>“Access Granted: Terminal Session Active” 🚀</sub>
+### 📊 Statistik GitHub
 
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CyberKenz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CyberKenz&theme=radical"/>
+  
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CyberKenz&layout=compact&langs_count=8&theme=radical"/>
 
+</div>
 
-Last updated: May 14, 2025
+---
+
+### 📚 Pembelajaran & Portofolio
+
+<details>
+<summary>🔍 Yang Sedang Dipelajari</summary>
+
+- 🔒 Dasar-dasar Keamanan Siber
+- 🌐 Pengembangan Web Frontend
+- 🛡️ Praktik Keamanan Web
+</details>
+
+<details>
+<summary>💼 Proyek yang Akan Datang</summary>
+
+- 🔐 Aplikasi Web dengan Fitur Keamanan Tingkat Lanjut
+- 🌟 Portfolio Website Pribadi
+- 🛠️ Tools Keamanan Web Sederhana
+</details>
+
+---
+
+### 📫 Mari Terhubung
+
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-k92754537%40gmail.com-purple?style=for-the-badge&logo=gmail)](mailto:k92754537@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kenrick_Kristian-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kenrick-kristian)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=CyberKenz&color=blueviolet&style=flat-square&label=Pengunjung+Profil" alt="Pengunjung Profil"/>
+</div>
+
+<div align="center">
+  <img src="https://github.com/CyberKenz/CyberKenz/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9745F5&height=120&section=footer"/>
+</div>
+
+<div align="center">
+  
+### 🌟 Jangan lupa bintangi repository yang menarik ya! 
+
+</div>
