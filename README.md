@@ -10,14 +10,12 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&random=false&width=435&lines=Enthusiast+Keamanan+Siber+%F0%9F%94%92;Web+Developer+Pembelajar+%F0%9F%8C%90;Selalu+Belajar%2C+Terus+Berkembang+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&random=false&width=435&lines=Cybersecurity+Enthusiast+%F0%9F%94%92;Web+Developer+Pembelajar+%F0%9F%8C%90;Selalu+Belajar%2C+Terus+Berkembang+%F0%9F%8C%B1" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CyberKenz/CyberKenz/main/assets/banner.gif" width="100%" alt="Banner"/>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
-
----
 
 ### 👨‍💻 Tentang Saya
 
@@ -36,7 +34,9 @@ aktivitas:
     - Berkontribusi pada Proyek Open Source
 ```
 
----
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 ### 🎯 Keahlian Teknis
 
@@ -48,7 +48,9 @@ aktivitas:
 
 </div>
 
----
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 ### 📊 Statistik GitHub
 
@@ -62,7 +64,9 @@ aktivitas:
 
 </div>
 
----
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 ### 📚 Pembelajaran & Portofolio
 
@@ -82,7 +86,9 @@ aktivitas:
 - 🛠️ Tools Keamanan Web Sederhana
 </details>
 
----
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 ### 📫 Mari Terhubung
 
@@ -93,14 +99,21 @@ aktivitas:
 
 </div>
 
----
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=CyberKenz&color=blueviolet&style=flat-square&label=Pengunjung+Profil" alt="Pengunjung Profil"/>
 </div>
 
 <div align="center">
-  <img src="https://github.com/CyberKenz/CyberKenz/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+  <!-- Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CyberKenz/CyberKenz/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CyberKenz/CyberKenz/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CyberKenz/CyberKenz/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <div align="center">
