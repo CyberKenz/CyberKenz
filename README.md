@@ -100,29 +100,22 @@ aktivitas:
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=CyberKenz&color=blueviolet&style=flat-square&label=Pengunjung+Profil" alt="Pengunjung Profil"/>
 </div>
 
 <div align="center">
+  
 <!-- Snake Animation -->
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/CyberKenz/CyberKenz/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/CyberKenz/CyberKenz/output/github-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/CyberKenz/CyberKenz/output/github-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CyberKenz/CyberKenz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CyberKenz/CyberKenz/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CyberKenz/CyberKenz/output/github-contribution-grid-snake.svg">
 </picture>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9745F5&height=120&section=footer"/>
+</div>
 
 <div align="center">
   
