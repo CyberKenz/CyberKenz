@@ -108,17 +108,21 @@ aktivitas:
 </div>
 
 <div align="center">
-  <!-- Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CyberKenz/CyberKenz/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CyberKenz/CyberKenz/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CyberKenz/CyberKenz/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9745F5&height=120&section=footer"/>
-</div>
+<!-- Snake Animation -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/CyberKenz/CyberKenz/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/CyberKenz/CyberKenz/output/github-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/CyberKenz/CyberKenz/output/github-snake.svg"
+  />
+</picture>
 
 <div align="center">
   
