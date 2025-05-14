@@ -23,6 +23,8 @@
 nama_lengkap: Kenrick Kristian
 nama_panggilan: CyberKenz
 lokasi: Indonesia
+waktu_lokal: Asia/Jakarta (UTC+7)
+terakhir_diperbarui: 2025-05-14 11:44:38 (UTC+7)
 fokus_utama: Cybersecurity & Pengembangan Web
 minat:
     - Keamanan Digital
@@ -55,12 +57,18 @@ aktivitas:
 ### 📊 Statistik GitHub
 
 <div align="center">
-  
+
+### 📈 Grafik Kontribusi
+
+[![CyberKenz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CyberKenz&theme=react-dark&hide_border=true&area=true)](https://github.com/CyberKenz)
+
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CyberKenz&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CyberKenz&theme=radical"/>
   
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CyberKenz&layout=compact&langs_count=8&theme=radical"/>
+
+<img src="https://metrics.lecoq.io/CyberKenz?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FJakarta">
 
 </div>
 
@@ -100,11 +108,14 @@ aktivitas:
 </div>
 
 <div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=CyberKenz&color=blueviolet&style=flat-square&label=Pengunjung+Profil" alt="Pengunjung Profil"/>
 </div>
 
 <div align="center">
-  
 <!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CyberKenz/CyberKenz/output/github-contribution-grid-snake-dark.svg">
