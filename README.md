@@ -74,7 +74,7 @@ minat:
 <details>
 <summary>🔍 Yang Sedang Dipelajari</summary>
 
-- 🔒 Dasar-dasar Bahasa Pemrograman (Javascript & Python)
+- 🗃️ Dasar-dasar Bahasa Pemrograman (Javascript & Python)
 - 🌐 Pengembangan Web 
 </details>
 
