@@ -20,17 +20,20 @@
 ### 👨‍💻 Tentang Saya
 
 ```yaml
-nama lengkap: Kenrick Kristian
-nama panggilan: CyberKenz
+nama_lengkap: Kenrick Kristian
+nama_panggilan: CyberKenz
 lokasi: Indonesia
-waktu lokal: Asia/Jakarta (UTC+7)
-terakhir_diperbarui: 2025-05-14 11:44:38 (UTC+7)
-fokus utama: Cybersecurity 
-fokus sekarang : Development Web
+waktu_lokal: Asia/Jakarta (UTC+7)
+terakhir_diperbarui: 2025-05-15 09:52:32 (UTC+7)
+fokus_utama: Cybersecurity & Pengembangan Web
 minat:
     - Keamanan Digital
-    - Pentesting
-    - AI & Machine Learning 
+    - Teknologi Web
+    - Pembelajaran Berkelanjutan
+aktivitas:
+    - Mempelajari Kerentanan Keamanan
+    - Membangun Aplikasi Web yang Aman
+    - Berkontribusi pada Proyek Open Source
 ```
 
 <div align="center">
@@ -83,6 +86,14 @@ minat:
 - 🛡️ Praktik Keamanan Web
 </details>
 
+<details>
+<summary>💼 Proyek yang Akan Datang</summary>
+
+- 🔐 Aplikasi Web dengan Fitur Keamanan Tingkat Lanjut
+- 🌟 Portfolio Website Pribadi
+- 🛠️ Tools Keamanan Web Sederhana
+</details>
+
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
@@ -105,16 +116,20 @@ minat:
 </div>
 
 <div align="center">
-  <!-- Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CyberKenz/CyberKenz/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CyberKenz/CyberKenz/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CyberKenz/CyberKenz/output/github-contribution-grid-snake.svg">
-  </picture>
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CyberKenz/CyberKenz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CyberKenz/CyberKenz/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CyberKenz/CyberKenz/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9745F5&height=120&section=footer"/>
 </div>
 
 <div align="center">
   
-### 🧑‍💻CYBER KENZ
+### 🌟 Jangan lupa bintangi repository yang menarik ya! 
 
 </div>
