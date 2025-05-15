@@ -21,19 +21,15 @@
 
 ```yaml
 nama_lengkap: Kenrick Kristian
-nama_panggilan: CyberKenz
+nama panggilan: CyberKenz
 lokasi: Indonesia
-waktu_lokal: Asia/Jakarta (UTC+7)
-terakhir_diperbarui: 2025-05-15 09:52:32 (UTC+7)
-fokus_utama: Cybersecurity & Pengembangan Web
+waktu lokal: Asia/Jakarta (UTC+7)
+terakhir diperbarui: 2025-05-15 09:52:32 (UTC+7)
+fokus utama: Cybersecurity dan Machine Learning & AI
 minat:
-    - Keamanan Digital
-    - Teknologi Web
-    - Pembelajaran Berkelanjutan
-aktivitas:
-    - Mempelajari Kerentanan Keamanan
-    - Membangun Aplikasi Web yang Aman
-    - Berkontribusi pada Proyek Open Source
+    - 🔐 Keamanan Digital/ Cybersecurity 
+    - 🌐 Teknologi Web
+    - 🤖 AI & Machine Learning 
 ```
 
 <div align="center">
@@ -76,22 +72,13 @@ aktivitas:
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-### 📚 Pembelajaran & Portofolio
+### 📚 Hal Yang Saya Pelajari 
 
 <details>
 <summary>🔍 Yang Sedang Dipelajari</summary>
 
-- 🔒 Dasar-dasar Keamanan Siber
-- 🌐 Pengembangan Web Frontend
-- 🛡️ Praktik Keamanan Web
-</details>
-
-<details>
-<summary>💼 Proyek yang Akan Datang</summary>
-
-- 🔐 Aplikasi Web dengan Fitur Keamanan Tingkat Lanjut
-- 🌟 Portfolio Website Pribadi
-- 🛠️ Tools Keamanan Web Sederhana
+- 🔒 Dasar-dasar Bahasa Pemrograman (Javascript & Python)
+- 🌐 Pengembangan Web 
 </details>
 
 <div align="center">
@@ -116,6 +103,7 @@ aktivitas:
 </div>
 
 <div align="center">
+  
 <!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CyberKenz/CyberKenz/output/github-contribution-grid-snake-dark.svg">
@@ -130,6 +118,6 @@ aktivitas:
 
 <div align="center">
   
-### 🌟 Jangan lupa bintangi repository yang menarik ya! 
+### 🧑‍💻 Cyber Kenz 🧑‍💻
 
 </div>
