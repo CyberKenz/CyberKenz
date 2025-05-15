@@ -20,20 +20,17 @@
 ### 👨‍💻 Tentang Saya
 
 ```yaml
-nama_lengkap: Kenrick Kristian
-nama_panggilan: CyberKenz
+nama lengkap: Kenrick Kristian
+nama panggilan: CyberKenz
 lokasi: Indonesia
-waktu_lokal: Asia/Jakarta (UTC+7)
+waktu lokal: Asia/Jakarta (UTC+7)
 terakhir_diperbarui: 2025-05-14 11:44:38 (UTC+7)
-fokus_utama: Cybersecurity & Pengembangan Web
+fokus utama: Cybersecurity 
+fokus sekarang : Development Web
 minat:
     - Keamanan Digital
-    - Teknologi Web
-    - Pembelajaran Berkelanjutan
-aktivitas:
-    - Mempelajari Kerentanan Keamanan
-    - Membangun Aplikasi Web yang Aman
-    - Berkontribusi pada Proyek Open Source
+    - Pentesting
+    - AI & Machine Learning 
 ```
 
 <div align="center">
@@ -86,14 +83,6 @@ aktivitas:
 - 🛡️ Praktik Keamanan Web
 </details>
 
-<details>
-<summary>💼 Proyek yang Akan Datang</summary>
-
-- 🔐 Aplikasi Web dengan Fitur Keamanan Tingkat Lanjut
-- 🌟 Portfolio Website Pribadi
-- 🛠️ Tools Keamanan Web Sederhana
-</details>
-
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
@@ -126,6 +115,6 @@ aktivitas:
 
 <div align="center">
   
-### 🌟 Jangan lupa bintangi repository yang menarik ya! 
+### 🧑‍💻CYBER KENZ
 
 </div>
