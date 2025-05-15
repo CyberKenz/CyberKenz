@@ -20,7 +20,7 @@
 ### 👨‍💻 Tentang Saya
 
 ```yaml
-nama_lengkap: Kenrick Kristian
+nama lengkap: Kenrick Kristian
 nama panggilan: CyberKenz
 lokasi: Indonesia
 waktu lokal: Asia/Jakarta (UTC+7)
