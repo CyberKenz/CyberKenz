@@ -21,7 +21,7 @@
 
 ```yaml
 nama lengkap: Kenrick Kristian
-nama panggilan: CyberKenz
+nickname: CyberKenz
 lokasi: Indonesia
 waktu lokal: Asia/Jakarta (UTC+7)
 terakhir diperbarui: 2025-05-15 09:52:32 (UTC+7)
