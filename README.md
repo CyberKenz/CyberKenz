@@ -17,13 +17,7 @@
 
 ### 🎒 Projek Terbaru
 
-<div align="center">
-  <a href="https://ken-ai-sigma.vercel.app/" target="_blank">
-    <img src="https://your-domain.com/images/ken-ai-sigma.png" alt="Ken-AI Sigma Preview" width="600"/>
-  </a>
-</div>
-
-**Ken-AI Sigma**  
+**Ken-AI**  
 Platform AI chatting berbasis Next.js dan Groq API untuk membantu developer menghasilkan kode, ide, dan dokumentasi secara cepat dan interaktif.
 
 🔗 [Kunjungi Situs »](https://ken-ai-sigma.vercel.app/)
