@@ -13,6 +13,24 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9745F5&center=true&vCenter=true&random=false&width=435&lines=Cybersecurity+Enthusiast+%F0%9F%94%92;Web+Developer+Pembelajar+%F0%9F%8C%90;Selalu+Belajar%2C+Terus+Berkembang+%F0%9F%8C%B1" alt="Typing SVG" />
 </div>
 
+---
+
+### 🎒 Projek Terbaru
+
+<div align="center">
+  <a href="https://ken-ai-sigma.vercel.app/" target="_blank">
+    <img src="https://your-domain.com/images/ken-ai-sigma.png" alt="Ken-AI Sigma Preview" width="600"/>
+  </a>
+</div>
+
+**Ken-AI Sigma**  
+Platform AI chatting berbasis Next.js dan Groq API untuk membantu developer menghasilkan kode, ide, dan dokumentasi secara cepat dan interaktif.
+
+🔗 [Kunjungi Situs »](https://ken-ai-sigma.vercel.app/)
+
+---
+
+
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
