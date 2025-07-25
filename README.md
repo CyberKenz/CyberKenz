@@ -17,7 +17,8 @@
 
 ### 🎒 Projek Terbaru
 
-**Ken-AI**  
+-**Ken-AI**  
+
 Platform AI chatting berbasis Next.js dan Groq API untuk membantu developer menghasilkan kode, ide, dan dokumentasi secara cepat dan interaktif.
 
 🔗 [Kunjungi Situs »](https://ken-ai-sigma.vercel.app/)
