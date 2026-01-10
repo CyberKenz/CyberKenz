@@ -127,11 +127,6 @@
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CyberKenz&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
 </div>
 
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=CyberKenz&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
-
-</div>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
