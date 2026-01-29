@@ -27,7 +27,8 @@
   
 | Projek | Deskripsi | Link |
 |--------|-----------|------|
-| **Ken-AI** 🤖 | Platform AI chatting berbasis Next.js dan Groq API | [🔗 Kunjungi](https://ken-ai-sigma.vercel.app/) |
+| **Ken AI** 🤖 | Platform AI chatting berbasis Next.js dan Groq API | [🔗 Kunjungi](https://ken-ai-sigma.vercel.app/) |
+| **Gymcels AI** 🏋🏻‍♂️ | Platform AI fitness berbasis Flask dan Groq API | [🔗 Kunjungi](https://gymcels-ai.vercel.app/) |
 
 </div>
 
